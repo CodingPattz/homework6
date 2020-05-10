@@ -1,0 +1,55 @@
+body{
+    font-family: poppins, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background-color: #F2F2F2;
+}
+
+.h1{
+  font-family: ganache, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 45px;
+  color: white;
+  text-align: center;
+}
+
+#news{
+    padding-top: 15px;
+    height: 70px;
+}
+
+.bg-custom{
+    background-color: #2994F2;
+}
+.card-header{
+    font-family: poppins, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+}
+
+.card-text{
+    font-size: 15px;
+}
+
+.navbar-custom{
+  background-color: #056CF2;
+  height: 70px;
+}
+
+.banner {
+    position: relative;
+    background: url("img/sky.jpg") no-repeat center center;
+    background-size: cover;
+    height: 450px;
+    padding-top: 200px;
+  }
+
+footer{
+height: 55px;
+padding-top: 15px;
+font-size: 15px;
+}
+
+
