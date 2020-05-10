@@ -20,13 +20,21 @@ body{
 }
 
 .bg-custom{
-    background-color: #2994F2;
+    background-color: #FFA805;
+}
+.bg-custom1{
+    background-color: #056CF2;
+}
+
+.bg-custom2{
+    background-color: #04D9D9;
 }
 .card-header{
     font-family: poppins, sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 25px;
+    text-shadow: 1px 1px 1px rgb(75, 75, 75);
 }
 
 .card-text{
